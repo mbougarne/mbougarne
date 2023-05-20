@@ -15,4 +15,4 @@ I am Mourad, a self-taught software engineer, and this's a brief about me:
 - 🌱 Diving deeper in C/C++ and learning Java/Swift
 - 👯 looking to collaborate on translate docs of OS projects to Arabic
 - 💬 Ask me about PHP, JavaScript, TypeScript, and Node
-- 📫 How to reach me: [Email](mailto:contact@mbougarne.me), [LinkedIn](https://www.linkedin.com/in/mbougarne/)
+- 📫 How to reach me: [Email](mailto:mouradbougarne@gmail.com), [LinkedIn](https://www.linkedin.com/in/mouradbougarne/)
