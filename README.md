@@ -1,18 +1,18 @@
 ### السلام عليكم
 معكم مراد مهندس برمجيات عصامي، وهذه نبذة عني:
 
-- حاليا أقوم بهندسة تطبيقا المحمول بالرياكت نيتف مع شركة متخصصصة في بث المحتوى المرئي
-- أغوص أكثر في سي و سي بلاس بلاس وعندة إتاحة الفرصة أتعلم الجافا وسويفت
+- أعمل لحسابي الخاص
+- أتعلم أكثر في سي و سي بلاس بلاس 
 - متاح للمساعدة في تطوير مشاريع مفتوحة المصدر أو ترجمة المحتوى التقني للعربية
-- مرحبا بأي سؤال في بي اتش بي، جافاسكريبت، تايب سكريبت أو نود
+- مرحبا بأي سؤال حول البرمجة، الذكاء الاصطناعي والمجمعات
 - لتواصل معي [البريد](mailto:mouradbougarne@gmail.com), [لينكدان](https://www.linkedin.com/in/mouradbougarne/)
 
 ### Hi there 👋
 
 I am Mourad, a self-taught software engineer, and this's a brief about me:
 
-- 🔭 Currently working on creating React Native apps for media content providers
-- 🌱 Diving deeper in C/C++ and learning Java/Swift
-- 👯 looking to collaborate on translate docs of OS projects to Arabic
-- 💬 Ask me about PHP, JavaScript, TypeScript, and Node
+- 🔭 Working for myself on computer programming projects
+- 🌱 Diving deeper into C++.
+- 👯 Open to help and collaborate with anything related to C++, Java, Python, Go, JavaScript
+- 💬 Ask me about Computer programming, AI, Compilers, Run-times
 - 📫 How to reach me: [Email](mailto:mouradbougarne@gmail.com), [LinkedIn](https://www.linkedin.com/in/mouradbougarne/)
