@@ -9,7 +9,7 @@
 ### مشاريع أعمل عليها علنًا
 
 - **[إطار (Itar)](https://github.com/mbougarne/itar)** — محرّك مفتوح المصدر لإدارة التأشير والتنقّل في تطبيقات التلفاز المبنية باستخدام React Native، مكتوب بلغة C++20. صدر إصداره التجريبي، واجتاز الاختبارات على أجهزة Android TV وFire TV وApple TV وSamsung Tizen وLG webOS.
-- **[الأثير (Al Athir)](https://github.com/mbougarne/al-athir)** — محرّك استدلال مفتوح المصدر لنماذج الذكاء الاصطناعي، يُطوَّر باستخدام C++20 وRust، مع الاهتمام بصحّة الحسابات وكفاءة التنفيذ وقابلية التحقّق من النتائج. *قيد التطوير.*
+- **[الأثير (Al Athir)](https://github.com/mbougarne/al-athir)** — محرّك استدلال مفتوح المصدر لنماذج الذكاء الاصطناعي، يُطوَّر باستخدام C++20، مع الاهتمام بصحّة الحسابات وكفاءة التنفيذ وقابلية التحقّق من النتائج. *قيد التطوير.*
 - **[مدوّنة (Modawana)](https://github.com/mbougarne/modawana)** — نظام مفتوح المصدر لإدارة المحتوى والنشر ذاتي الاستضافة، مبني باستخدام Go وReact وSQLite.
 - **[سماء (Sama)](https://github.com/mbougarne/sama)** — لوحة تحكّم مفتوحة المصدر وذاتية الاستضافة لإدارة الموارد والبنية التحتية السحابية. *قيد التطوير.*
 - **[Zigide](https://github.com/mbougarne/Zigide)** — بيئة تطوير متكاملة تجريبية مكتوبة بلغة Zig، أعمل عليها لتعلّم اللغة وفهم البنية الداخلية لأدوات البرمجة.
@@ -34,7 +34,7 @@ I believe in learning by building practical projects, understanding first princi
 ### Projects I'm building in public
 
 - **[Itar · إطار](https://github.com/mbougarne/itar)** — An open-source C++20 focus and navigation engine for React Native TV applications. Beta released and successfully tested across Android TV, Fire TV, Apple TV, Samsung Tizen, and LG webOS devices.
-- **[Al Athir · الأثير](https://github.com/mbougarne/al-athir)** — An open-source AI inference engine being developed with C++20 and Rust, emphasizing numerical correctness, execution efficiency, and verifiable results. *In development.*
+- **[Al Athir · الأثير](https://github.com/mbougarne/al-athir)** — An open-source AI inference engine being developed with C++20, emphasizing numerical correctness, execution efficiency, and verifiable results. *In development.*
 - **[Modawana · مدوّنة](https://github.com/mbougarne/modawana)** — An open-source, self-hosted content management and publishing platform built with Go, React, and SQLite.
 - **[Sama · سماء](https://github.com/mbougarne/sama)** — An open-source, self-hosted management platform for cloud resources and infrastructure. *In development.*
 - **[Zigide](https://github.com/mbougarne/Zigide)** — An experimental integrated development environment written in Zig, built to learn the language and understand the internals of development tools.
